@@ -39,7 +39,7 @@ nav ul a {
   color: blac;
 }
 nav ul li a.active {
-  border-bottom: 1px black;
+  border-bottom: 3px black;
 }
 .scraper {
   height: 300px;
